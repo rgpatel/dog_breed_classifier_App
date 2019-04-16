@@ -2,6 +2,8 @@
 
 Welcome to the Convolutional Neural Networks (CNN) project! In this project, a pipeline is built that can be used within a web or mobile app to process real-world, user-supplied images.  Given an image of a dog, the algorithm will identify an estimate of the canine’s breed.  If supplied an image of a human, the code will identify the resembling dog breed.  
 
+![image](https://user-images.githubusercontent.com/49537918/56246513-6722bc00-605f-11e9-8518-d7c0cbde62d4.png)
+
 Along with exploring state-of-the-art CNN models for classification, important design decisions will be made about the user experience for your app.  By completing this lab, the goal is to understand the challenges involved in piecing together a series of models designed to perform various tasks in a data processing pipeline.  Each model has its strengths and weaknesses, and engineering a real-world application often involves solving many problems without a perfect answer.
 
 ## Project Instructions
